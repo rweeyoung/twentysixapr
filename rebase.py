@@ -11,4 +11,4 @@ print("Sorted numbers:", sorted_numbers)
 print("fku")
 print("fku")
 print("fku")
-print("fku")
+
