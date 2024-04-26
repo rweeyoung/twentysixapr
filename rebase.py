@@ -4,4 +4,3 @@ print("now")
 
 print("pls")
 
-print("NOW")
