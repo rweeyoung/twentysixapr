@@ -8,4 +8,4 @@ print("Random numbers:", random_numbers)
 sorted_numbers = sorted(random_numbers)
 print("Sorted numbers:", sorted_numbers)
 
-
+print("fku")
